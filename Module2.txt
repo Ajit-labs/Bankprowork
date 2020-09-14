@@ -1,0 +1,70 @@
+Unix Instruction
+
+
+Dell@DESKTOP-FA225KT MINGW64 ~/Desktop
+$ ls
+'Capture.PNG1`2435.PNG'
+ desktop.ini
+'Eclipse IDE for Java Developers - 2020-03.lnk'*
+ eclipse-jee-neon-3-win32-x86_64/
+ eclipse-jee-neon-3-win32-x86_64.zip
+'io stream'/
+'jpeg probvelm.PNG'
+'New Microsoft Office Excel Worksheet.xlsx'
+'New Text Document.txt'
+ snapshaot.PNG
+ state.PNG
+ study/
+ xpath.txt
+
+Dell@DESKTOP-FA225KT MINGW64 ~/Desktop
+$ cd study
+
+Dell@DESKTOP-FA225KT MINGW64 ~/Desktop/study
+$ ls
+ Collections.txt   Framework.txt      pdf/        sendkeys.PNG    WAITS.PNG
+'core java'/       input.PNG          projects/   SynchDEmo.PNG
+ Familyphts/      'manual testing'/   selenium/   Testing/
+
+Dell@DESKTOP-FA225KT MINGW64 ~/Desktop/study
+$ pwd
+/c/Users/Dell/Desktop/study
+
+Dell@DESKTOP-FA225KT MINGW64 ~/Desktop/study
+$ cd pdf
+
+Dell@DESKTOP-FA225KT MINGW64 ~/Desktop/study/pdf
+$ ls
+ FEMBOOK.pdf                          'Telecom-billing-guide (1).pdf'
+ NCERT-Class-11-Geography-Part-1.pdf
+
+Dell@DESKTOP-FA225KT MINGW64 ~/Desktop/study/pdf
+$ cd desktop
+bash: cd: desktop: No such file or directory
+
+Dell@DESKTOP-FA225KT MINGW64 ~/Desktop/study/pdf
+$ cd Desktop
+bash: cd: Desktop: No such file or directory
+
+Dell@DESKTOP-FA225KT MINGW64 ~/Desktop/study/pdf
+$ cd
+
+Dell@DESKTOP-FA225KT MINGW64 ~
+$ pwd
+/c/Users/Dell
+
+Dell@DESKTOP-FA225KT MINGW64 ~
+$ cd
+
+Dell@DESKTOP-FA225KT MINGW64 ~
+$ pwd
+/c/Users/Dell
+
+Dell@DESKTOP-FA225KT MINGW64 ~
+$ cd /c/Users/Dell/Desktop/study
+
+Dell@DESKTOP-FA225KT MINGW64 ~/Desktop/study
+$ cd ..
+
+Dell@DESKTOP-FA225KT MINGW64 ~/Desktop
+$
